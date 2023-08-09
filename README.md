@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka Aggarwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate and Proficient Front-End React Developer with a Proven Track Record in Crafting Seamless and Intuitive Web Experiences.</h3>
 
 - 🌱 I’m currently learning **MERN**
 
