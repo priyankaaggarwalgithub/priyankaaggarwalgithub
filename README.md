@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **react,redux,typedcript,javascript,and node**
+- 💬 Ask me about **react, redux, typescript, javascript and node**
 
 - 📫 How to reach me **aggarwalpriyanka45@gmail.com**
 
