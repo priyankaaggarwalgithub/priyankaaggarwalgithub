@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka Aggarwal</h1>
 <h3 align="center">Passionate and Proficient Front-End React Developer with a Proven Track Record in Crafting Seamless and Intuitive Web Experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankaaggarwalgithub&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaaggarwalgithub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankaaggarwalgithub&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaaggarwalgithub" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankaaggarwalgithub" alt="priyankaaggarwalgithub" /></a> </p>
 
